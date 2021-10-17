@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Habib Nuhu.
--   A Full stack developer from Nigeria,with 5+ years experience working with Javascript,Php,Mysql,c# and 3 years experience working with React,Node,Express and MongoDB.
--   I’m currently learning to uses Amazon web services.
+- 👋 Hi, I’m Habib Nuhu , A Full-stack developer from Nigeria with 5+ years experience in developing scalable web apps.
+-   Technologies and Frameworks I've worked with => Php, Javascript, Python, Django, React JS, Node JS, Express JS, Next JS.
+-   I’m currently learning to use Amazon web services.
 -   You can reach me on +2348165820418
 
 <!---
