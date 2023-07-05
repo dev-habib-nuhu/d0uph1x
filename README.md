@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Habib Nuhu , A Full-stack developer from Nigeria with 7 years experience in developing scalable web apps.
--   Technologies and Frameworks I've worked with => Php, Javascript, Python, Django, React JS, Node JS, Express JS, Next JS, AWS.
+-   Technologies and Frameworks I've worked with => Php, Javascript, Python, Flask, Nest JS, Django, React JS, Node JS, Express JS, Next JS, AWS.
 -   You can reach me on +2348165820418
 
 <!---
