@@ -1,6 +1,4 @@
-- 👋 Hi, I’m Habib Nuhu , A Full-stack developer from Nigeria with 7 years experience in developing scalable web apps.
--   Technologies and Frameworks I've worked with => Php, Javascript, Python, Flask, Nest JS, Django, React JS, Node JS, Express JS, Next JS, AWS.
--   You can reach me on +2348165820418
+Hi, I am Habib Nuhu, is a Software Engineer with 7 years of professional hands-on experience designing, developing, building, and implementing applications and solutions using various technologies and frameworks, skilled in React.js,Next.js, Nest.js, Express.js, Node.js, Flask, Django, Django REST framework, Python, JavaScript, MySQL, and MongoDB. I am a solution-focused professional with a solid ability to tackle complicated issues. He is flexible with different technologies, adapts quickly to new environments, and enjoys learning new technologies.
 
 <!---
 d0uph1x/d0uph1x is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
